@@ -1,0 +1,8 @@
+Char - caracteres
+Boolean - predicados(true/false)
+byte - numeros inteiros - 1 byte
+short - numeros inteiros - 2 bytes
+int - numeros inteiros - 4 byts
+long - numeros inteiros - 8 byts
+float - numeros flutuantes - 4byts
+double - numeros flutuantes 8byts
