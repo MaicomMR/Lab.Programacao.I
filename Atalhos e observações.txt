@@ -6,3 +6,9 @@ int - numeros inteiros - 4 byts
 long - numeros inteiros - 8 byts
 float - numeros flutuantes - 4byts
 double - numeros flutuantes 8byts
+
+
+leitura de scanner:
+teclado.nextInt(); - Ler numero
+teclado.nextLine(); - Ler palavra
+teclado.nextLine().charAt(0); - Ler só o primeiro caractere
